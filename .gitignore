@@ -1,0 +1,10 @@
+# Data
+*.csv
+DataSet.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
