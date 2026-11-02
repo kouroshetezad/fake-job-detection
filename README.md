@@ -42,5 +42,5 @@ The dataset (`DataSet.csv`) is expected in the working directory.
 ## Run
 
 ```bash
-python project4.py
+python fake-job-detection.py
 ```
